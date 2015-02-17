@@ -5,7 +5,7 @@
  *
  * Perform actions to set up the site for this profile.
  */
-function bear_install() {
+function bear_attac_install() {
   // See standard_install().
   // This contains less setup than standard install, but similar.
 
