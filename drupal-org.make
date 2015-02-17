@@ -17,7 +17,7 @@ projects[block_class][version] = "2.1"
 projects[breadcrumbs_by_path] = "1.0-alpha11"
 projects[breakpoints][version] = "1.3"
 projects[coffee][version] = "2.2"
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.6"
 projects[date][version] = "2.8"
 projects[devel][version] = "1.5"
 projects[diff][version] = "3.2"
@@ -27,7 +27,7 @@ projects[entity_view_mode][version] = "1.0-rc1"
 projects[entitycache][version] = "1.2"
 projects[entityreference][version] = "1.1"
 projects[environment_indicator][version] = "2.5"
-projects[features][version] = "2.2"
+projects[features][version] = "2.3"
 projects[features][patch][] = "http://www.drupal.org/files/issues/alter_overrides-766264-45.patch"
 projects[features][patch][] = "http://www.drupal.org/files/issues/2381739-features-mtime.patch"
 projects[field_collection][version] = "1.0-beta8"
@@ -59,7 +59,7 @@ projects[strongarm][version] = "2.0"
 projects[styleguide][version] = "1.1"
 projects[token][version] = "1.5"
 projects[xmlsitemap][version] = "2.0"
-projects[views][version] = "3.8"
+projects[views][version] = "3.10"
 projects[views][patch][] = "http://www.drupal.org/files/issues/1036962-views-ajax-destination-65.patch"
 projects[views_bulk_operations][version] = "3.2"
 projects[views_slideshow][version] = "3.1"
@@ -77,3 +77,10 @@ libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/
 ; Themes
 projects[zen][type] = "theme"
 projects[bear_skin][type] = "theme"
+
+; Attac Make file
+projects[attac_base][download][type] = git
+projects[attac_base][download][url] = https://github.com/heliogabal/attac_base.git
+
+; +++++ Translations +++++
+translations[] = de
