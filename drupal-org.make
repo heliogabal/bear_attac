@@ -81,6 +81,7 @@ projects[bear_skin][type] = "theme"
 ; Attac Make file
 projects[attac_base][download][type] = git
 projects[attac_base][download][url] = https://github.com/heliogabal/attac_base.git
+projects[attac_base][download][branch] = master
 
 ; +++++ Translations +++++
 translations[] = de
