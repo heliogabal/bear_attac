@@ -14,9 +14,9 @@ projects[admin_views][version] = "1.4"
 projects[advagg][version] = "2.7"
 
 projects[bear][version] = "1.x-dev"
-projects[bear_hunt][version] = "1.x-dev"
-projects[bear_necessities][version] = "1.7-alpha1"
-projects[bear_show][version] = "1.x-dev"
+;projects[bear_hunt][version] = "1.x-dev"
+;projects[bear_necessities][version] = "1.7-alpha1"
+;projects[bear_show][version] = "1.x-dev"
 projects[bear_habitat][version] = "1.x-dev"
 
 projects[block_class][version] = "2.1"
