@@ -15,4 +15,4 @@ projects[bear_attac][type] = profile
 projects[bear_attac][download][type] = git
 projects[bear_attac][download][url] = https://github.com/heliogabal/bear_attac.git
 projects[bear_attac][download][branch] = 7.x-1.x
-projects[bear_attac][download][subdir] =
+projects[bear_attac][subdir] = ""

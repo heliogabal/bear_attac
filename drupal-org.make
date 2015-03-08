@@ -79,9 +79,9 @@ libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/
 
 ; Themes
 projects[zen][type] = "theme"
-projects[zen][download][subdir] = ""
+projects[zen][subdir] = ""
 projects[bear_skin][type] = "theme"
-projects[bear_skin][download][subdir] = ""
+projects[bear_skin][subdir] = ""
 
 ; Attac Make file
 ;projects[attac_base][download][type] = git
