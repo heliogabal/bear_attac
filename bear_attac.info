@@ -1,4 +1,5 @@
-name = Bear
+name = Bear Attac
+old_short_name = Bear
 description = A profile to give developers the tools needed for just about any site.
 core = 7.x
 
@@ -69,7 +70,7 @@ dependencies[] = views_ui
 dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 
-files[] = bear.profile
+files[] = bear_attac.profile
 
 # System Requirements
 php_memory_limit = 128M
