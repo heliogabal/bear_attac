@@ -13,6 +13,7 @@ projects[admin_menu][version] = "3.0-rc5"
 projects[admin_views][version] = "1.4"
 projects[advagg][version] = "2.7"
 projects[bear_habitat][version] = "1.x-dev"
+
 projects[block_class][version] = "2.1"
 projects[breadcrumbs_by_path][version] = "1.0-alpha12"
 projects[breakpoints][version] = "1.3"
