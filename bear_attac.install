@@ -106,7 +106,7 @@ function bear_attac_install() {
 
   // Enable some standard blocks.
   $default_theme = variable_get('theme_default', 'attac');
-  $admin_theme = 'adminimal';
+  $admin_theme = 'adminimal_theme';
   $blocks = array(
     array(
       'module' => 'system',
@@ -201,8 +201,19 @@ function bear_attac_install() {
   variable_set('user_admin_role', $admin_role->rid);
 
   // Enable seven and bear_skin themes and set defaults.
-  theme_enable(array('adminimal', 'attac'));
+  theme_enable(array('adminimal_theme', 'attac'));
   variable_set('theme_default', 'attac');
-  variable_set('admin_theme', 'adminimal');
+  variable_set('admin_theme', 'adminimal_theme');
   variable_set('node_admin_theme', '1');
+    // revert features to ensure they are all installed
+  $features = array(
+    // 'bear_habitat',
+    // 'bear_necessities',
+    // 'bear_user',
+    // 'bear_habitat_local',
+    // 'bear_show',
+    'attac_gruppen',
+    'attac_kalender'
+  );
+  features_revert($features);
 }

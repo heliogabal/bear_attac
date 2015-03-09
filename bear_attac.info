@@ -70,6 +70,10 @@ dependencies[] = views_ui
 dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 
+; Custom
+dependencies[] = attac_gruppen
+dependencies[] = attac_kalender
+
 files[] = bear_attac.profile
 
 # System Requirements
