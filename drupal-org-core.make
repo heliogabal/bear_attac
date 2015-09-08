@@ -5,7 +5,7 @@ core = 7.x
 
 projects[drupal][type] = core
 projects[drupal][download][type] = "get"
-projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.37.1.tar.gz"
+projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.39.1.tar.gz"
 
 ; Make sure to add new patches to the /patches folder when adding or updating patches below.
 
