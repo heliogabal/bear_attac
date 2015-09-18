@@ -11,7 +11,7 @@ defaults[projects][subdir] = "contrib"
 ; Modules
 projects[admin_menu][version] = "3.0-rc5"
 projects[admin_views][version] = "1.5"
-projects[advagg][version] = "2.15"
+projects[advagg][version] = "2.16"
 
 projects[bear][version] = "1.14"
 ;projects[bear_hunt][version] = "1.x-dev"
