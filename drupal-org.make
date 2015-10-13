@@ -72,20 +72,24 @@ projects[views][version] = "3.11"
 projects[views][patch][] = "http://www.drupal.org/files/issues/1036962-views-ajax-destination-65.patch"
 projects[views_bulk_operations][version] = "3.3"
 projects[views_slideshow][version] = "3.1"
-projects[wysiwyg][version] = "2.x-dev"
+projects[ckeditor][version] = "1.16"
 
 ; Libraries
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.3/ckeditor_4.3.3_full.zip"
+;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.3/ckeditor_4.3.3_full.zip"
+libraries[ckeditor][download][url] = "https://github.com/heliogabal/ckeditor/blob/master/ckeditor_4.5.4_270cea7bcb58.zip"
+
 libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v1.5.8.zip"
 libraries[plupload][patch][1903850] = "http://drupal.org/files/issues/plupload-1_5_8-rm_examples-1903850-21.patch"
+
 libraries[flexslider][download][type] = "get"
 libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/version/2.1.zip"
 
 ; Themes
 projects[zen][type] = "theme"
 projects[zen][subdir] = ""
+
 projects[bear_skin][type] = "theme"
 projects[bear_skin][subdir] = ""
 
