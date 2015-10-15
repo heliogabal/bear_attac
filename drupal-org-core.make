@@ -28,7 +28,6 @@ projects[drupal][patch][] = "http://drupal.org/files/issues/death-to-tabledrag.p
 projects[drupal][patch][] = "https://www.drupal.org/files/issues/schema-relative-1783278-17-D7-do-not-test.patch"
 
 ; Performance patches from https://drupal.psu.edu/blog/post/purespeed-core-patching
-projects[drupal][patch][] = "https://www.drupal.org/files/issues/D7-2263365-17a-module_implements.patch"
 projects[drupal][patch][] = "https://www.drupal.org/files/issues/D7_improve_theme_registry-2339447-65.patch"
 projects[drupal][patch][] = "https://www.drupal.org/files/issues/drupal-1443308-37-module_load_include-static-cache.patch"
 projects[drupal][patch][] = "https://www.drupal.org/files/issues/drupal-2222635-26-rename-truncate.patch"
