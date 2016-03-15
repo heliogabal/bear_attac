@@ -10,7 +10,7 @@ projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.43.1.tar.
 ; Make sure to add new patches to the /patches folder when adding or updating patches below.
 
 ; @see https://www.drupal.org/node/1934086#comment-7137850
-projects[drupal][patch][] = "http://drupal.org/files/drupal-1934086-path_load_order-6.patch"
+;projects[drupal][patch][] = "http://drupal.org/files/drupal-1934086-path_load_order-6.patch"
 
 ; @see https://www.drupal.org/node/1875824#comment-7420862
 projects[drupal][patch][] = "http://drupal.org/files/core-1875824-3-d7.patch"
