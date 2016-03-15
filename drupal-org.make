@@ -77,7 +77,8 @@ projects[ckeditor][version] = "1.17"
 ; Libraries
 libraries[ckeditor][download][type] = "get"
 ;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.3.3/ckeditor_4.3.3_full.zip"
-libraries[ckeditor][download][url] = "https://github.com/heliogabal/ckeditor/blob/master/ckeditor_4.5.4_270cea7bcb58.zip"
+;libraries[ckeditor][download][url] = "https://github.com/heliogabal/ckeditor/blob/master/ckeditor_4.5.4_270cea7bcb58.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.7/ckeditor_4.5.7_full.zip"
 
 libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/moxiecode/plupload/archive/v1.5.8.zip"
