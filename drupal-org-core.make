@@ -13,7 +13,7 @@ projects[drupal][download][url] = "http://files.aegir.cc/core/drupal-7.53.1.tar.
 ;projects[drupal][patch][] = "http://drupal.org/files/drupal-1934086-path_load_order-6.patch"
 
 ; @see https://www.drupal.org/node/1875824#comment-7420862
-projects[drupal][patch][] = "https://www.drupal.org/files/menu-order-customized.patch"
+;projects[drupal][patch][] = "https://www.drupal.org/files/menu-order-customized.patch"
 
 ; @see https://www.drupal.org/node/1903010#comment-8415695
 projects[drupal][patch][] = "https://www.drupal.org/files/issues/1903010-file-managed-file-save-upload-no-field-name-D7-do-not-test.patch"
