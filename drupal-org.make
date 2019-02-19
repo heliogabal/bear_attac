@@ -9,7 +9,7 @@ api = 2
 defaults[projects][subdir] = "contrib"
 
 ; Modules
-projects[admin_menu][version] = "3.0-rc5"
+projects[admin_menu][version] = "3.0-rc6"
 projects[admin_views][version] = "1.6"
 projects[advagg][version] = "2.33"
 
@@ -51,7 +51,7 @@ projects[linkit][version] = "2.x-dev"
 ;projects[linkit][patch][] = "http://www.drupal.org/files/issues/modal-hiding-behind-panels-modal-2312851-1.patch"
 ;projects[media][version] = "2.x-dev"
 ;projects[media_youtube][version] = "3.0"
-projects[menu_block][version] = "2.7"
+projects[menu_block][version] = "2.8"
 ;projects[menu_expanded][version] = "1.0-beta1"
 ;projects[menu_position][version] = "1.1"
 projects[module_filter][version] = "2.1"
@@ -87,8 +87,8 @@ libraries[flexslider][download][type] = "get"
 libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/version/2.1.zip"
 
 ; Themes
-projects[zen][type] = "theme"
-projects[zen][subdir] = ""
+;projects[zen][type] = "theme"
+;projects[zen][subdir] = ""
 
 ;projects[bear_skin][type] = "theme"
 ;projects[bear_skin][subdir] = ""
