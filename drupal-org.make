@@ -50,7 +50,7 @@ projects[redirect][version] = "1.0-rc3"
 projects[strongarm][version] = "2.0"
 projects[token][version] = "1.7"
 projects[xmlsitemap][version] = "2.6"
-projects[views][version] = "3.22"
+projects[views][version] = "3.23"
 projects[views_bulk_operations][version] = "3.5"
 projects[ckeditor][version] = "1.18"
 
